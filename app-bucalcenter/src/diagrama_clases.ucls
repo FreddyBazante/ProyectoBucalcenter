@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.ec.bucalcenter.modelo.Administrador" project="app-bucalcenter" 
+    file="/app-bucalcenter/src/com/ec/bucalcenter/modelo/Administrador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1251" width="263" x="62" y="-518"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.ec.bucalcenter.modelo.Cita" project="app-bucalcenter" 
+    file="/app-bucalcenter/src/com/ec/bucalcenter/modelo/Cita.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="154" x="383" y="-73"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.ec.bucalcenter.modelo.Odontologo" project="app-bucalcenter" 
+    file="/app-bucalcenter/src/com/ec/bucalcenter/modelo/Odontologo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1359" width="229" x="538" y="-561"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.ec.bucalcenter.modelo.Paciente" project="app-bucalcenter" 
+    file="/app-bucalcenter/src/com/ec/bucalcenter/modelo/Paciente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1305" width="239" x="721" y="-461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

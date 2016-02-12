@@ -1,0 +1,85 @@
+@CHARSET "UTF-8";
+body{
+	width: 100%;
+	font-size: 12px;
+	font-family: Helvetica, Arial,sans-serif;
+	background-color: #F0E8FF;
+	margin: 0;
+}
+header,footer{
+	display: block;
+	position: relative;
+	float: left;
+	width: 100%;
+	background-color: #F0E8FF;
+	
+}
+header td{
+	font-size: 25px;
+	font-family: Helvetica, Arial,sans-serif;
+}
+nav{
+	float:left;
+	background-color: #F0E8FF;
+}
+nav ul{
+	list-style-type: none;
+	margin: 2px;
+	padding: 0px;
+}
+nav ul li{
+	margin: 2px 2px;
+	padding: 4px;
+	text-transform: capitalize;
+	font-family: 12px;
+	background-color: yellow;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+nav ul li a {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;    
+}
+fieldset{
+	background: white;
+}
+legend{
+	font-weight: bold;
+	font-size:13px;
+	text-align: center;
+	color: black;
+}
+input, select, textarea{
+	font-size: 12px;
+}
+article{
+	margin: 5px;
+	background-color: F0E8FF;
+}
+article table {
+	font-size: 11px;
+}
+article table th{
+	text-align: center;
+	border: 1px solid #2066CD;
+	font: bold 10pt Arial, Helvetica, sans-serif;
+	padding: 1px;
+}
+article table td{
+	font: normal 10pt Arial, Helvetica, sans-serif;
+	color:#190707; 	
+}
+article a {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;    
+}
+footer{
+	padding: 4px;
+	text-align: center;
+	height: 30px;
+}
